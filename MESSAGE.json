@@ -1,0 +1,10 @@
+{
+  "askForItem" : "Please enter a todo item",
+  "anotherTodo" : "Would you like to add another todo item? (y/n)",
+  "existing" : "That item is already in your todo list",
+  "quit" : "Would you like to select completed items and then quit the app? (y/n)",
+  "todoDisplay" : "Your todo items are:",
+  "tryAgain" : "please enter a new item",
+  "complete": "Which items have you completed? Type the number of of completed",
+  "thanks": "thanks for using the app"
+}
